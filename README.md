@@ -20,7 +20,7 @@ This is a Flask-based web application for predicting flight delays using machine
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/lando0481/capstoneproject.git
+   git clone https://github.com/adlrkbln.Flight-Delay-Prediction.git
 2. **Install dependencies:**
 
    ```bash
